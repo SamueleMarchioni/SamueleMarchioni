@@ -1,7 +1,6 @@
-### Hi there 👋
-
+## Hi there 🙋🏻‍♂️
 I'm Samuele Marchioni and I'm a student in Mathematical Engineering - Statistical Learning at Politecnico di Milano. 
-Now I'll give u some insight about me... 
+Here are some insights about me... 
 
 ## My Education👨🏻‍🎓
 
@@ -33,9 +32,9 @@ Now I'll give u some insight about me...
       on one another due to spatial proximity.
      </li>
 
-<li> <b>Innovate Ventures website </b><br>
-      In this project we attempt to uncover the relationship between geostatistical covariates and the frequency of landslides in a given region, whilst also considering the influence each region exerts
-      on one another due to spatial proximity.
+<li> <b>Innovate Ventures website (https://github.com/FilippoMonti99/HypermediaProject)</b><br>
+      Innovate Ventures is a website that offers users the possibility to get in touch with the reality of a venture capital firm.
      </li>
-     
-</ul>  
+</ul>
+
+Unfortunately for the first two projects I signed a non disclosure agreement so I cannot share the results here.
